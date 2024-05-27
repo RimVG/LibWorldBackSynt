@@ -1,0 +1,10 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/RimVG/LibWorldBackSynt
+build-by-default: true
+branches:
+- master
+projects:
+  LibWorldBackSynt:
+    path: ""
+    model: virion
+    type: library
+...
