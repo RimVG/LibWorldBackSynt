@@ -1,6 +1,6 @@
 name: WorldBackSynLib
 api: 5.0.0
 author: RimVG ## Please Don't Steal Author :)
-antigen: RimVG\wreg-VG
+antigen: RimVG\wreg
 version: 2.0.1
 php: 8
